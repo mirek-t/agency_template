@@ -1,1 +1,5 @@
-@import "../../node_modules/bootstrap/dist/css/bootstrap.min";
+@import "./variables";
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+@import "./intro";
